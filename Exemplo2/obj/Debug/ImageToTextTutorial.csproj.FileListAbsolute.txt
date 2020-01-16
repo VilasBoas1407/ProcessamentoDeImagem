@@ -1,0 +1,16 @@
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\img\ComSci.Png
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\img\Potter.LowQuality.tiff
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\img\Potter.tiff
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\img\Screenshot.png
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\txt\Example3.txt
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\txt\Example1.txt
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\txt\Example2.txt
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\img\arabic.gif
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\ImageToTextTutorial.exe
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\ImageToTextTutorial.pdb
+D:\Projetos\Processamento de imagem\Exemplo2\bin\Debug\IronOcr.dll
+D:\Projetos\Processamento de imagem\Exemplo2\obj\Debug\ImageToTextTutorial.csprojAssemblyReference.cache
+D:\Projetos\Processamento de imagem\Exemplo2\obj\Debug\ImageToTextTutorial.csproj.CoreCompileInputs.cache
+D:\Projetos\Processamento de imagem\Exemplo2\obj\Debug\ImageToTextTutorial.csproj.CopyComplete
+D:\Projetos\Processamento de imagem\Exemplo2\obj\Debug\ImageToTextTutorial.exe
+D:\Projetos\Processamento de imagem\Exemplo2\obj\Debug\ImageToTextTutorial.pdb

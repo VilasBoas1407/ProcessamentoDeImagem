@@ -1,0 +1,16 @@
+D:\Projetos\OCR\obj\Debug\ImageToTextTutorial.csprojAssemblyReference.cache
+D:\Projetos\OCR\obj\Debug\ImageToTextTutorial.csproj.CoreCompileInputs.cache
+D:\Projetos\OCR\bin\Debug\img\ComSci.Png
+D:\Projetos\OCR\bin\Debug\img\Potter.LowQuality.tiff
+D:\Projetos\OCR\bin\Debug\img\Potter.tiff
+D:\Projetos\OCR\bin\Debug\img\Screenshot.png
+D:\Projetos\OCR\bin\Debug\txt\Example3.txt
+D:\Projetos\OCR\bin\Debug\txt\Example1.txt
+D:\Projetos\OCR\bin\Debug\txt\Example2.txt
+D:\Projetos\OCR\bin\Debug\img\arabic.gif
+D:\Projetos\OCR\bin\Debug\ImageToTextTutorial.exe
+D:\Projetos\OCR\bin\Debug\ImageToTextTutorial.pdb
+D:\Projetos\OCR\bin\Debug\IronOcr.dll
+D:\Projetos\OCR\obj\Debug\ImageToTextTutorial.csproj.CopyComplete
+D:\Projetos\OCR\obj\Debug\ImageToTextTutorial.exe
+D:\Projetos\OCR\obj\Debug\ImageToTextTutorial.pdb
